@@ -1,4 +1,4 @@
-[![PyPI - Python](https://img.shields.io/pypi/pyversions/iconsdk?logo=pypi)](https://pypi.org/project/iconsdk)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Amp](https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white) ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white) 
 
 # Web Regi Apriandi
 Halaman website Regi Apriandi termasuk halaman blog dan resume yang dibagun menggunakan framework Django.
@@ -11,3 +11,6 @@ Halaman blog ini berisi konten Blog Regi Apriandi mengenai teknologi dan informa
 
 ## Halaman Resume
 Halaman ini berisi resume Regi Apriandi. (https://regiapriandi.me/resume/)
+
+# 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=c80595539677&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
